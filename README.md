@@ -30,6 +30,8 @@ git config --global user.email kp@xyz.com
 
 1. Initialize a new git repository
 
+initialize a new git repository
+
 ```sh
 git init
 ```
